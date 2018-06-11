@@ -7,6 +7,14 @@
       color: white;
   }
 
+  h1{
+      font-size: 1.8em;
+      padding: 5px 0px;
+  }
+  p{
+      padding: 5px 0px;
+  }
+
   .container{
     width: 100vw;
     height: 100vh;
